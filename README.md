@@ -2,7 +2,7 @@
 ### Dedicated Business Analyst and Graduate Student at Zicklin School of Business, Baruch College
 
 ### I am an experienced **Business Analyst** with:
-- 📚 A **Master's degree in the Business of Fashion**.
+- 📚 A **Master's degree in the Business of Fashion** and an **ongoing Master's degree in Business Analytics**.
 - 🎓 A **Bachelor's degree in Business Administration**, specializing in Fashion Merchandising and Beauty.
 - 💼 **3 years of industry experience**, where I honed skills in problem-solving, critical thinking, and stakeholder management.
 
