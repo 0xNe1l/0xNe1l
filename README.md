@@ -4,9 +4,9 @@
 ### I am an experienced **Business Analyst** with:
 - 📚 A **Master's degree in the Business of Fashion**.
 - 🎓 A **Bachelor's degree in Business Administration**, specializing in Fashion Merchandising and Beauty.
-- 💼 **3 year of industry experience**, where I honed skills in problem-solving, critical thinking, and stakeholder management.
+- 💼 **3 years of industry experience**, where I honed skills in problem-solving, critical thinking, and stakeholder management.
 
-🌟	Currently, I am pursuing a second **Master's degree** in **Business Analytics** at the Baruch College to further enhance my expertise in leveraging data for impactful business strategies.
+🌟	Currently, I am pursuing a second **Master's degree** in **Business Analytics** at Baruch College to further enhance my expertise in leveraging data for impactful business strategies.
 
 ---
 
