@@ -1,19 +1,34 @@
-# Hi there, I'm Neil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Dedicated Business Analyst and Graduate Student at Zicklin School of Business, Baruch College
+# Hi there, I'm Neil 👋
 
-### I am an experienced **Business Analyst** with:
-- 📚 A **Master's degree in the Business of Fashion** and an **ongoing Master's degree in Business Analytics**.
-- 🎓 A **Bachelor's degree in Business Administration**, specializing in Fashion Merchandising and Beauty.
-- 💼 **3 years of industry experience**, where I honed skills in problem-solving, critical thinking, and stakeholder management.
+🔗 Business Analyst | Product Developer | Building practical software with AI-assisted development
 
-🌟	Currently, I am pursuing a second **Master's degree** in **Business Analytics** at Baruch College to further enhance my expertise in leveraging data for impactful business strategies.
+I enjoy turning business problems into user-focused digital products by combining analytics, product thinking, and software development.
 
 ---
 
-### 🔧 **Skills & Expertise**
-- 📊 **Data Analysis & Visualization**: Python, SQL, Excel, Tableau
-- 💭 **Critical Thinking & Problem-Solving**: Experienced in identifying trends, solving business problems, and managing stakeholders.
-- 👔 **Business Insights**: Combining hands-on industry experience with advanced education to deliver actionable strategies.
+## 🚀 What I Do
+
+- 📊 Transform business requirements and data into actionable product decisions.
+- 💻 Build and iterate digital products using AI-assisted software development.
+- 🎯 Focus on product strategy, user experience, and continuous improvement.
+- 📈 Passionate about creating practical tools that solve real-world problems.
+
+---
+
+## 🛠 Skills & Technologies
+
+- 📊 **Business Analytics:** SQL · Python · Excel · Tableau
+- 💡 **Product:** Product Development · Product Strategy · UX · Feature Planning
+- 💻 **Development:** JavaScript · Git · AI-assisted Development · Debugging
+- 🤝 **Business:** Requirements Analysis · Stakeholder Management · Process Improvement
+
+---
+
+## 🌱 Currently
+
+- 🚀 Building and improving software products.
+- 🤖 Exploring AI-assisted software development workflows.
+- 📚 Continuously learning modern product and engineering practices.
 
 ---
 ### 💻 **Projects**
